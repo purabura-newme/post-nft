@@ -27,7 +27,7 @@
   padding: 0 14px;
 }
 
-.spu95u12488u12483u12501u12442 .text-242 {
+.spu95u12488u12483u12501u12442 .text-254 {
   letter-spacing: 0;
   line-height: normal;
   margin-top: 5.0px;
@@ -98,7 +98,7 @@
   width: 238px;
 }
 
-.spu95u12488u12483u12501u12442 .text-236 {
+.spu95u12488u12483u12501u12442 .text-248 {
   color: var(--white);
   font-family: var(--font-family-zen_maru_gothic);
   font-size: 24px;
@@ -108,7 +108,7 @@
   white-space: nowrap;
 }
 
-.spu95u12488u12483u12501u12442 .text-237 {
+.spu95u12488u12483u12501u12442 .text-249 {
   color: var(--white);
   font-family: var(--font-family-zen_maru_gothic);
   font-size: var(--font-size-l);
@@ -200,6 +200,12 @@
   width: 20px;
 }
 
+.spu95u12488u12483u12501u12442 .text-25 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+}
+
 .spu95u12488u12483u12501u12442 .x76 {
   align-items: flex-start;
   cursor: pointer;
@@ -216,7 +222,7 @@
   width: 25px;
 }
 
-.spu95u12488u12483u12501u12442 .text-23 {
+.spu95u12488u12483u12501u12442 .text-25-1 {
   letter-spacing: 0;
   line-height: normal;
   margin-left: 0.87px;

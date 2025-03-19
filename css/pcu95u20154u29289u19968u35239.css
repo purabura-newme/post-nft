@@ -448,6 +448,16 @@
   width: 934px;
 }
 
+.pcu95u20154u29289u19968u35239 .x15 {
+  align-items: flex-start;
+  display: flex;
+  height: 160px;
+  left: 0;
+  min-width: 926px;
+  position: absolute;
+  top: 4px;
+}
+
 .pcu95u20154u29289u19968u35239 .thumb_bg {
   height: 160px;
   width: 160px;
@@ -513,6 +523,13 @@
   gap: 10px;
   margin-left: 224px;
   min-width: 32px;
+}
+
+.pcu95u20154u29289u19968u35239 .x3-6 {
+  background-color: var(--monza);
+  border-radius: 2px;
+  height: 4px;
+  width: 4px;
 }
 
 .pcu95u20154u29289u19968u35239 .x3-7 {
