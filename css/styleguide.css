@@ -1,0 +1,351 @@
+:root { 
+  --alto: #d9d9d9;
+  --black: #000000;
+  --bright-red: #ad0009;
+  --celeste: #cccccc;
+  --dove-gray: #707070;
+  --fuscous-gray: #505050;
+  --gallery: #f0f0f0;
+  --mine-shaft: #303030;
+  --monza: #cc0913;
+  --pampas: #f3f1eb;
+  --pink-swan: #bababa;
+  --romance: #fffefb;
+  --star-dust: #a0a0a0;
+  --white: #ffffff;
+ 
+  --font-size-l: 14px;
+  --font-size-m: 12px;
+  --font-size-s: 11px;
+  --font-size-xl: 15px;
+  --font-size-xs: 10px;
+  --font-size-xxl: 16px;
+  --font-size-xxxl: 20px;
+ 
+  --font-family-zen_maru_gothic: "Zen Maru Gothic", Helvetica;
+}
+.zenmarugothic-medium-mine-shaft-12px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.zenmarugothic-normal-mine-shaft-12px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.zenmarugothic-normal-mine-shaft-11px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.zenmarugothic-bold-mine-shaft-14px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.zenmarugothic-bold-mine-shaft-15px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.zenmarugothic-medium-mine-shaft-14px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.zenmarugothic-bold-mine-shaft-16px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.zenmarugothic-bold-mine-shaft-20px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.zenmarugothic-medium-fuscous-gray-12px {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.zenmarugothic-bold-mine-shaft-11px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.zenmarugothic-bold-monza-12px {
+  color: var(--monza);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.zenmarugothic-medium-fuscous-gray-11px {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.zenmarugothic-bold-monza-16px {
+  color: var(--monza);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.zenmarugothic-normal-mine-shaft-14px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.zenmarugothic-medium-fuscous-gray-10px {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.zenmarugothic-bold-monza-11px {
+  color: var(--monza);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.zenmarugothic-bold-white-13px {
+  color: var(--white);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.zenmarugothic-bold-monza-18px {
+  color: var(--monza);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.zenmarugothic-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.zenmarugothic-medium-fuscous-gray-8px {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.zenmarugothic-normal-mine-shaft-10px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.zenmarugothic-medium-dove-gray-11px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.zenmarugothic-bold-mine-shaft-18px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.zenmarugothic-bold-monza-20px {
+  color: var(--monza);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.zenmarugothic-medium-mine-shaft-10px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.zenmarugothic-medium-white-12px {
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.zenmarugothic-medium-monza-12px {
+  color: var(--monza);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.zenmarugothic-medium-mine-shaft-13px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.zenmarugothic-bold-monza-14px {
+  color: var(--monza);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.zenmarugothic-medium-star-dust-11px {
+  color: var(--star-dust);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.zenmarugothic-medium-star-dust-12px {
+  color: var(--star-dust);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.zenmarugothic-bold-fuscous-gray-14px {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.zenmarugothic-bold-mine-shaft-13px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.zenmarugothic-bold-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.zenmarugothic-normal-mine-shaft-13px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.zenmarugothic-bold-mine-shaft-22px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.zenmarugothic-medium-mine-shaft-11px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.zenmarugothic-medium-white-10px {
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.zenmarugothic-medium-monza-10px {
+  color: var(--monza);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.zenmarugothic-medium-dove-gray-12px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.zenmarugothic-medium-fuscous-gray-14px {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-zen_maru_gothic);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}

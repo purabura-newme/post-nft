@@ -1,0 +1,644 @@
+/* screen -  */
+
+.x {
+  background-color: var(--white);
+  height: 1056px;
+  overflow: hidden;
+  position: relative;
+  width: 1366px;
+}
+
+.x .overlap-group7 {
+  align-items: center;
+  background-color: var(--pampas);
+  border-radius: 40px 40px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  left: 200px;
+  min-height: 1000px;
+  padding: 65px 63px;
+  position: absolute;
+  top: 56px;
+  width: 766px;
+}
+
+.x .text_label {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-left: 4px;
+  white-space: nowrap;
+}
+
+.x .x13 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 34px;
+  margin-top: 37px;
+  min-width: 636px;
+}
+
+.x .dummy-dummy-5 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 32px;
+  min-width: 112px;
+  white-space: nowrap;
+}
+
+.x .dummy-dummy-6 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-left: 13px;
+  min-width: 24px;
+  white-space: nowrap;
+}
+
+.x .pulldown {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 10px;
+  margin-left: 251px;
+  min-width: 236px;
+}
+
+.x .text-1-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 16px;
+  text-align: right;
+  width: 62px;
+}
+
+.x .overlap-group-2 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--pink-swan);
+  border-radius: 100px;
+  height: 32px;
+  position: relative;
+  width: 160px;
+}
+
+.x .text_label-1 {
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  width: 143px;
+}
+
+.x .arrow-right-solid {
+  height: 12px;
+  left: 137px;
+  position: absolute;
+  top: 11px;
+  width: 10px;
+}
+
+.x .group-25 {
+  gap: 24px;
+  height: 331px;
+  margin-right: 2.0px;
+  margin-top: 20px;
+  min-width: 630px;
+}
+
+.x .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 331px;
+  width: 306px;
+}
+
+.x .nft0 {
+  height: 180px;
+  object-fit: cover;
+  width: 300px;
+}
+
+.x .group {
+  flex-direction: column;
+  margin-top: 10px;
+  min-height: 96px;
+  width: 306px;
+}
+
+.x .overlap-group {
+  height: 56px;
+  position: relative;
+  width: 300px;
+}
+
+.x .dummy-dummy {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 28px;
+  white-space: nowrap;
+  width: 300px;
+}
+
+.x .list01 {
+  height: 32px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 32px;
+}
+
+.x .dummy-dummy-1 {
+  left: 44px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 0;
+  width: 256px;
+}
+
+.x .dummy-dummy-2 {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 40px;
+  width: 300px;
+}
+
+.x .overlap-group-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 12px;
+  display: flex;
+  margin-top: 9px;
+  min-width: 300px;
+  padding: 0 16px;
+}
+
+.x .ico_layer {
+  height: 16px;
+  width: 16px;
+}
+
+.x .dummy-dummy-3 {
+  height: 36px;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-left: 9px;
+  white-space: nowrap;
+  width: 171px;
+}
+
+.x .vector {
+  height: 16px;
+  margin-left: 30px;
+  width: 19px;
+}
+
+.x .dummy-dummy-4 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-left: 11px;
+  min-width: 11px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.x .vector-1 {
+  height: 16px;
+  width: 16px;
+}
+
+.x .group-26 {
+  gap: 24px;
+  height: 331px;
+  margin-right: 2.0px;
+  margin-top: 45px;
+  min-width: 630px;
+}
+
+.x .vector-2 {
+  height: 16px;
+  width: 16px;
+}
+
+.x .vector-3 {
+  height: 16px;
+  width: 16px;
+}
+
+.x .account {
+  align-items: flex-start;
+  display: flex;
+  height: 330px;
+  left: 1016px;
+  min-width: 322px;
+  position: absolute;
+  top: 81px;
+}
+
+.x .overlap-group4 {
+  align-items: center;
+  background-color: var(--gallery);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  min-height: 330px;
+  padding: 20px 0;
+  width: 320px;
+}
+
+.x .ico_-container {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 72px;
+  height: 102px;
+  margin-right: 20px;
+  min-width: 190px;
+}
+
+.x .ico_user {
+  align-self: flex-end;
+  height: 100px;
+  width: 100px;
+}
+
+.x .ico_setting {
+  height: 19px;
+  width: 18px;
+}
+
+.x .dummy {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 5px;
+  min-height: 20px;
+  text-align: center;
+  width: 100px;
+}
+
+.x .overlap-group-3 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 12px;
+  display: flex;
+  height: 36px;
+  justify-content: flex-end;
+  margin-top: 12px;
+  min-width: 280px;
+  padding: 0 48px;
+}
+
+.x .ico_view {
+  height: 14px;
+  width: 18px;
+}
+
+.x .overlap-group1 {
+  height: 32px;
+  margin-left: 7px;
+  position: relative;
+  width: 64px;
+}
+
+.x .dummy-text-dummy-text-du {
+  height: 32px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 49px;
+}
+
+.x .ico_like {
+  height: 16px;
+  left: 45px;
+  position: absolute;
+  top: 8px;
+  width: 19px;
+}
+
+.x .dummy-dummy-7 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-left: 6px;
+  min-width: 11px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.x .ico_share {
+  height: 16px;
+  margin-left: 19px;
+  width: 16px;
+}
+
+.x .dummy-dummy-8 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-left: 5px;
+  min-width: 36px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.x .overlap-group2 {
+  height: 40px;
+  margin-top: 20px;
+  position: relative;
+  width: 220px;
+}
+
+.x .x3 {
+  background-color: var(--bright-red);
+  border-radius: 110px;
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 220px;
+}
+
+.x .x1 {
+  background-color: var(--monza);
+  border-radius: 110px;
+  box-shadow: 0px 3px 3px #00000029;
+  height: 36px;
+  top: 0;
+  width: 220px;
+}
+
+.x .top {
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+}
+
+.x .overlap-group3 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--pink-swan);
+  border-radius: 30px;
+  height: 40px;
+  margin-top: 8px;
+  position: relative;
+  width: 220px;
+}
+
+.x .text_label-2 {
+  left: -1px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  width: 220px;
+}
+
+.x .ico_win {
+  height: 14px;
+  left: 190px;
+  position: absolute;
+  top: 13px;
+  width: 14px;
+}
+
+.x .hdr {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 56px;
+  left: 0;
+  min-width: 1368px;
+  position: absolute;
+  top: 0;
+}
+
+.x .overlap-group5 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  min-width: 1366px;
+  padding: 9px 22px;
+}
+
+.x .group-33 {
+  align-self: flex-end;
+  gap: 24px;
+  height: 32px;
+  min-width: 427px;
+}
+
+.x .text_label-3 {
+  letter-spacing: 0;
+  line-height: 32px;
+  min-width: 153px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.x .text_label-4 {
+  letter-spacing: 0;
+  line-height: 32px;
+  min-width: 132px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.x .text_label-5 {
+  letter-spacing: 0;
+  line-height: 32px;
+  min-width: 88px;
+  text-align: right;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.x .vector-4 {
+  height: 18px;
+  margin-left: 18px;
+  margin-top: 8.0px;
+  width: 18px;
+}
+
+.x .ico_cart {
+  margin-left: 14px;
+  margin-top: 6.69px;
+}
+
+.x .text-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 14px;
+  margin-top: 8.0px;
+  min-height: 14px;
+  min-width: 50px;
+  text-align: right;
+}
+
+.x .ico_user-1 {
+  height: 24px;
+  margin-left: 10px;
+  margin-top: 4.0px;
+  width: 24px;
+}
+
+.x .side {
+  align-items: flex-start;
+  display: flex;
+  height: 768px;
+  left: 0;
+  min-width: 202px;
+  position: fixed;
+  top: 0;
+}
+
+.x .overlap-group6 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-height: 768px;
+  padding: 23px 19px;
+  width: 200px;
+}
+
+.x .text-10 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 44.0px;
+  min-height: 26px;
+  min-width: 108px;
+}
+
+.x .overlap-group-4 {
+  align-self: flex-end;
+  height: 149px;
+  margin-top: 52px;
+  position: relative;
+  width: 153px;
+}
+
+.x .x1-1 {
+  align-items: flex-end;
+  display: flex;
+  gap: 9px;
+  height: 148px;
+  min-width: 153px;
+  top: 1px;
+}
+
+.x .ico_-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 4.76px;
+  min-height: 100px;
+  width: 22px;
+}
+
+.x .ico_group {
+  height: 15px;
+  width: 22px;
+}
+
+.x .ico_mail {
+  height: 18px;
+  margin-left: 2px;
+  margin-top: 25px;
+  width: 18px;
+}
+
+.x .ico_cart-1 {
+  margin-left: 1px;
+  margin-top: 24px;
+}
+
+.x .text-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-height: 148px;
+  width: 114px;
+}
+
+.x .text {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.x .text-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.x .ico_pen {
+  height: 18px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.x .x4 {
+  height: 4px;
+  margin-top: 29px;
+  width: 130px;
+}
+
+.x .x3-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-right: 46.0px;
+  margin-top: 32px;
+  min-height: 71px;
+  width: 90px;
+}
+
+.x .text-7 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+}
+
+.x .text-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+}
+
+.x .index02_img_02 {
+  height: 17px;
+  margin-right: 2.0px;
+  margin-top: 333px;
+  object-fit: cover;
+  width: 108px;
+}
+
+.x .group-1 {
+  align-items: flex-start;
+  display: flex;
+}
+
+.x .x1-2 {
+  left: 0;
+  position: absolute;
+}
